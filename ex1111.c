@@ -1,7 +1,7 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
-//.....
+//..
 
 #define SIZE 10
 #define MAX_TURN 10
